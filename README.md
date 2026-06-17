@@ -1,6 +1,6 @@
 # Store Management System (Kivy Desktop & Mobile)
 
-A lightweight, cross-platform Store Management application built using Python and the Kivy framework. The system provides a real-time reactive user interface to track inventory details, compute stock levels, and query products instantly via a dynamic local database (`JSON`).
+A lightweight mobile and desktop, Store Management application built using Python and the Kivy framework. The system provides a real-time reactive user interface to track inventory details, compute stock levels, and query products instantly via a dynamic local database (`JSON`).
 
 > 🚀 **Current Development Focus:** Successfully running as a desktop client. Currently being packaged using Buildozer for native Android deployment (.apk).
 
